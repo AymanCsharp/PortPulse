@@ -1,0 +1,14 @@
+# PortPluse - No external dependencies required
+# This tool uses only built-in Python libraries:
+# - socket
+# - threading  
+# - time
+# - sys
+# - os
+# - concurrent.futures
+# - ipaddress
+
+# All required libraries are included with Python 3.6+
+# No pip install needed
+# يعني لا تحتاج ان تنزل مكاتب لانها تأتي مع نسخة ألبايثون نفسها
+
